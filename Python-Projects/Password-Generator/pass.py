@@ -23,7 +23,7 @@ def generate_password(min_length, numbers = True, special_character = True):
         
         if new_char in digits:
             has_numbers = True
-        elif new_char in special:
+        elif new_char in special:     
             has_special = True
         
         meets_criteria = True
