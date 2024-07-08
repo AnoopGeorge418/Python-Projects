@@ -7,8 +7,8 @@ CLEAR_AND_RETURN = "\033[H"
 def alarm(seconds):
     mixer.init()
     mixer.music.load('./alarm.mp3')
-    mixer.music.set_volume(1.0)
-    
+    mixer.music.set_volume(1.0)   
+
     time_elapsed = 0
 
     while time_elapsed < seconds:
