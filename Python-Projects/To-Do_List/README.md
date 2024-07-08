@@ -62,4 +62,3 @@ If you wish to contribute to this project, follow these steps:
 6. Create a new Pull Request.
 
 ## License
-[Choose a license for your project and mention it here.]
