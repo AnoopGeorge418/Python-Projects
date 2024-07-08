@@ -10,7 +10,7 @@ def generate_password(min_length, numbers = True, special_character = True):
     if numbers:
         characters += digits
     if special_character:
-        characters += special
+        characters += special   
         
     pwd = '' 
     meets_criteria = False
