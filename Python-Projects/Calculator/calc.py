@@ -17,7 +17,7 @@ def calculator():
         elif operator == '/':
             division(input1, input2)
         elif operator == '%':
-            modular(input1, input2)
+            modular(input1, input2)   
         else:
             print('Make sure to Enter correct operation t0 perform.')
             
