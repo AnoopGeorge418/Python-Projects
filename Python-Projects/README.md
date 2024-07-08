@@ -14,7 +14,6 @@ Welcome to the Python Projects repository! This collection features various Pyth
 
 To get started with these projects, clone this repository to your local machine:
 
-```bash
 git clone https://github.com/AnoopGeorge418/Python-Projects.git
 
 Each project is contained within its own directory. Navigate to the project directory you're interested in to explore and work on the project.
