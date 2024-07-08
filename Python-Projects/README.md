@@ -31,4 +31,4 @@ Contributions are welcome! If you'd like to add your own Python project or impro
 Please adhere to the project's coding standards and include appropriate documentation with your project.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details. Feel free to use the code in this repository for your own projects.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
