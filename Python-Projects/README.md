@@ -4,11 +4,11 @@ Welcome to the Python Projects repository! This collection features various Pyth
 
 ## Table of Contents
 
-1. [Adventure Game](Project1) - A text-based adventure game where players navigate through a story by making choices.
-2. [Alarm Clock](Project2) - A simple alarm clock application that allows users to set alarms and receive notifications.
-3. [Simple Calculator](Project3) - Basic calculator functionality for performing arithmetic operations.
-4. [Password Generator](Project4) - Generates strong and secure passwords based on user-defined criteria.
-5. [To Do List App](Project5/README.md) - A command-line to-do list application to manage tasks efficiently.
+1. [Adventure Game]([Project1](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/Adventure-Game)) - A text-based adventure game where players navigate through a story by making choices.
+2. [Alarm Clock]([Project2](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/Alarm-Clock)) - A simple alarm clock application that allows users to set alarms and receive notifications.
+3. [Simple Calculator]([Project3](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/Calculator)) - Basic calculator functionality for performing arithmetic operations.
+4. [Password Generator]([Project4](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/Password-Generator)) - Generates strong and secure passwords based on user-defined criteria.
+5. [To Do List App](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/To-Do_List) - A command-line to-do list application to manage tasks efficiently.
    
 ## Getting Started
 
