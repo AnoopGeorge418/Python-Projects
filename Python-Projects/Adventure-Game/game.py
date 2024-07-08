@@ -23,7 +23,7 @@ if age >= 18:
                 print('You went around and reached the other side of the lake.')
             elif ans == 'across':
                 print('You managed to get across, but got bitten by a fish and lost 5 health.')
-                health -= 5
+                health -= 5  
 
             ans = input('You noticed a house and a river. Which do you go to (river/house)? ').lower()
             if ans == 'house':
