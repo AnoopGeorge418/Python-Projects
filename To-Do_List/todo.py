@@ -145,7 +145,7 @@ def todo():
 def main():
     """Calling the todo program to run again and again, if there is an error in user input"""
     print('Welcome to ToDo List application!')
-    load_Tasks()
+    load_Tasks()  
     while True:
         todo()
 
