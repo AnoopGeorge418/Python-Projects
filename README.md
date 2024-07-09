@@ -4,11 +4,12 @@ Welcome to the Python Projects repository! This collection features various Pyth
 
 ## Table of Contents
 
-1. [Adventure Game](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/Adventure-Game) - A text-based adventure game where players navigate through a story by making choices.
-2. [Alarm Clock](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/Alarm-Clock) - A simple alarm clock application that allows users to set alarms and receive notifications.
-3. [Simple Calculator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/Calculator) - Basic calculator functionality for performing arithmetic operations.
-4. [Password Generator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/Password-Generator) - Generates strong and secure passwords based on user-defined criteria.
-5. [To Do List App](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/To-Do_List) - A command-line to-do list application to manage tasks efficiently.
+1. [Adventure Game](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Adventure-Game) - A text-based adventure game where players navigate through a story by making choices.
+2. [Alarm Clock](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Alarm-Clock) - A simple alarm clock application that allows users to set alarms and receive notifications.
+3. [Simple Calculator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Calculator) - Basic calculator functionality for performing arithmetic operations.
+4. [Password Generator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Password-Generator) - Generates strong and secure passwords based on user-defined criteria.
+5. [To Do List App](https://github.com/AnoopGeorge418/Python-Projects/tree/main/To-Do_List) - A command-line to-do list application to manage tasks efficiently.
+6. [Number Guessing Game](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Number-Guessing-Game) - A command line number-guessing-game to learn python and its functionalities.
    
 ## Getting Started
 
