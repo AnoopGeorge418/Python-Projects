@@ -14,7 +14,7 @@ def calculator():
             subtraction(input1, input2)
         elif operator == '*':
             multiplication(input1, input2)
-        elif operator == '/':
+        elif operator == '/':  
             division(input1, input2)
         elif operator == '%':
             modular(input1, input2)   
