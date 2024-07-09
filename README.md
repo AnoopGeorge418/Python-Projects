@@ -3,6 +3,7 @@
 Welcome to the Python Projects repository! This collection features various Python projects covering different topics and difficulty levels. Each project is designed to help you practice and improve your Python programming skills.
 
 ## Table of Contents
+## 1. Command Line Projects
 
 1. [Adventure Game](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Adventure-Game) - A text-based adventure game where players navigate through a story by making choices.
 2. [Alarm Clock](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Alarm-Clock) - A simple alarm clock application that allows users to set alarms and receive notifications.
