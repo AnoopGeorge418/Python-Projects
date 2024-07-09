@@ -38,7 +38,7 @@ Description: Confirmation of task deletion.
    ```bash
    git clone <https://github.com/AnoopGeorge418/Python-Projects.git>
 2. Navigate to the project directory:
-    cd To-Do_List
+    `cd To-Do_List`
 
 ## Usage
 1. Run the application:
@@ -47,9 +47,9 @@ Description: Confirmation of task deletion.
     Choose options from the main menu to add, view, update, delete tasks, or exit the application.
 
 ## File Structure
-- todo.py: Main application code.
-- tasks.csv: CSV file for storing tasks.
-- tasks.txt: Text file for storing tasks.
+- `todo.py`: Main application code.
+- `tasks.csv`: CSV file for storing tasks.
+- `tasks.txt`: Text file for storing tasks.
 
 ## Contributing
 If you wish to contribute to this project, follow these steps:
