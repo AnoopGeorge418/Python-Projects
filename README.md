@@ -11,6 +11,10 @@ Welcome to the Python Projects repository! This collection features various Pyth
 4. [Password Generator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Password-Generator) - Generates strong and secure passwords based on user-defined criteria.
 5. [To Do List App](https://github.com/AnoopGeorge418/Python-Projects/tree/main/To-Do_List) - A command-line to-do list application to manage tasks efficiently.
 6. [Number Guessing Game](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Number-Guessing-Game) - A command line number-guessing-game to learn python and its functionalities.
+7. [Band Name Generator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Band-Name-Generator) - A command line band name generator using variables, input and print functions of python.
+8. [Contact Book](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Contact-Book) - A command line contact details project where user can add, search and delete contacts.
+9. [Text-Based Adventure Game](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Text-Based-Adventure-Game) - A command line text-based-game to learn python and its functionalities.
+10. [Unit Converter](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Unit-Convertor) - A command line unit convertor.
    
 ## Getting Started
 
