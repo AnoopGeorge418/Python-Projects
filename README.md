@@ -15,6 +15,9 @@ Welcome to the Python Projects repository! This collection features various Pyth
 8. [Contact Book](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Contact-Book) - A command line contact details project where user can add, search and delete contacts.
 9. [Text-Based Adventure Game](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Text-Based-Adventure-Game) - A command line text-based-game to learn python and its functionalities.
 10. [Unit Converter](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Unit-Convertor) - A command line unit convertor.
+11. [Tip Calculator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Tip-Calculator) - A command line tip calculator.
+12. [BMI Calculator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/BMI-Calculator) - A command line bmi calculator.
+13. [Life in Weeks](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Life-in-weeks) - A command line life in weeks checker.
    
 ## Getting Started
 
