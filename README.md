@@ -18,6 +18,9 @@ Welcome to the Python Projects repository! This collection features various Pyth
 11. [Tip Calculator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Tip-Calculator) - A command line tip calculator.
 12. [BMI Calculator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/BMI-Calculator) - A command line bmi calculator.
 13. [Life in Weeks](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Life-in-weeks) - A command line life in weeks checker.
+14. [Odd Or Even](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Odd_Or_Even) - A command line odd or even checker.
+15. [Rollercoaster](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rollercoaster) - A command line rollercoaster eligibility checker.
+16. [Treasure Island](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Treasure-Island) - A command line adventure treasure finding game..
    
 ## Getting Started
 
