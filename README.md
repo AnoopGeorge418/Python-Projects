@@ -24,6 +24,9 @@ Welcome to the Python Projects repository! This collection features various Pyth
 17. [Countdown Timer](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Countdown-Timer) - A command line Time Counter.
 18. [Sample Quiz](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Sample-Quiz) - A command line Quiz.
 19. [Rock Paper Scissors](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rock-Paper-Scissors) - A command line game.
+20. [Caesar Cipher](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Caesar-cipher) - A command line .text encrypter and decrypter.
+21. [Secret Auction](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Secret-Auction-Room) - A command line .secret auction.
+22. [Black Jack](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Blackjack-Game) - A command line card game.
    
 ## Getting Started
 
