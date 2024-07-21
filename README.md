@@ -27,6 +27,8 @@ Welcome to the Python Projects repository! This collection features various Pyth
 20. [Caesar Cipher](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Caesar-cipher) - A command line .text encrypter and decrypter.
 21. [Secret Auction](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Secret-Auction-Room) - A command line .secret auction.
 22. [Black Jack](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Blackjack-Game) - A command line card game.
+23. [Quiz Project](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Quiz-Project) - A command line quiz brain project using python Oops concepts.
+24. [File Organizer](https://github.com/AnoopGeorge418/Python-Projects/tree/main/File-Organizer) - A command line file organizer project based on url of a folder that is in your system that you want to organize.
    
 ## Getting Started
 
