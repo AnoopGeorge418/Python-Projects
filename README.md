@@ -29,6 +29,10 @@ Welcome to the Python Projects repository! This collection features various Pyth
 22. [Black Jack](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Blackjack-Game) - A command line card game.
 23. [Quiz Project](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Quiz-Project) - A command line quiz brain project using python Oops concepts.
 24. [File Organizer](https://github.com/AnoopGeorge418/Python-Projects/tree/main/File-Organizer) - A command line file organizer project based on url of a folder that is in your system that you want to organize.
+25. [Madlibs](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Madlibs) - A command line madlibs project.
+26. [Secret Number Guesser](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Secret-Number-Guesser) - A command line Secret Number Guesser game project.
+27. [Rock Paper Scissor](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rock-Paper-Scissors-Game) - A command line Secret Number Guesser game project.
+28. [Hangman](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Hangman) - A command line Hangman game project.
    
 ## Getting Started
 
