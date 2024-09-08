@@ -21,12 +21,12 @@ This repository is designed for beginners to get hands-on experience with Python
 ### Terminal Based Projects:-
 
 ### 1. 🧮 Calculator
-**Location**: [`Calculator/`](https://github.com/AnoopGeorge418/Python-Projects/tree/main/calculator)  
+**Location**: [`Calculator/`](https://github.com/AnoopGeorge418/Projects/tree/main/Calculator)  
 **Description**: A basic unit convertor application that performs addition, subtraction, multiplication, and division.  
 **Concepts Covered**: Functions, user input, exception handling.
 
 ### 2. 📝 Unit-Convertor
-**Location**: [`ToDo-List/`](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Unit-Convertor)  
+**Location**: [`ToDo-List/`](https://github.com/AnoopGeorge418/Projects/tree/main/Unit-Convertor)  
 **Description**: A basic unit convertor application that converts Celsius to Fahrenheit, meters to feet, kilograms to pounds.  
 **Concepts Covered**: Functions, Conditions, Loops, Modules and Packages, exception handling.
 
