@@ -26,7 +26,7 @@ This repository is designed for beginners to get hands-on experience with Python
 **Concepts Covered**: Functions, user input, exception handling.
 
 ### 2. 📝 Unit-Convertor
-**Location**: [`ToDo-List/`](https://github.com/AnoopGeorge418/Projects/tree/main/Unit-Convertor)  
+**Location**: [`Unit-Covertor/`](https://github.com/AnoopGeorge418/Projects/tree/main/Unit-Convertor)  
 **Description**: A basic unit convertor application that converts Celsius to Fahrenheit, meters to feet, kilograms to pounds.  
 **Concepts Covered**: Functions, Conditions, Loops, Modules and Packages, exception handling.
 
