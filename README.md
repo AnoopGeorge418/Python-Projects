@@ -25,10 +25,10 @@ This repository is designed for beginners to get hands-on experience with Python
 **Description**: A basic unit convertor application that performs addition, subtraction, multiplication, and division.  
 **Concepts Covered**: Functions, user input, exception handling.
 
-### 2. 📝 Unit-Convertor
-**Location**: [`Unit-Covertor/`](https://github.com/AnoopGeorge418/Projects/tree/main/Unit-Convertor)  
-**Description**: A basic unit convertor application that converts Celsius to Fahrenheit, meters to feet, kilograms to pounds.  
-**Concepts Covered**: Functions, Conditions, Loops, Modules and Packages, exception handling.
+### 2. 📝 To-Do List 
+**Location**: [`To-Do List/`](https://github.com/AnoopGeorge418/Projects/tree/main/To-Do_List)  
+**Description**: Create a simple command-line application to manage a to-do list. You should be able to add, remove, and list tasks. 
+**Concepts Covered**: Functions, Conditions, Loops, Modules and Packages, exception handling, File I/O, list manipulation, basic data persistence.
 
 
 ## **⚙️ Installation**
