@@ -6,7 +6,7 @@ Welcome to the **Python Projects** repository! 🎉 This collection contains var
 
 1. [📚 Introduction](#-introduction)
 2. [📝 Projects Overview](#-projects-overview)
-   - [1. Terminal Based Projects](#terminal-based-projects)
+   - [1. Pygame Based Projects](#terminal-based-projects)
 3. [⚙️ Installation](#-installation)
 4. [🛠️ How to Use](#️-how-to-use)
 5. [🤝 Contributing](#-contributing)
@@ -21,9 +21,9 @@ This repository is designed for beginners to get hands-on experience with Python
 ### Terminal Based Projects:-
 
 ### 1. 🧮 Calculator
-**Location**: [`Calculator/`](https://github.com/AnoopGeorge418/Projects/tree/main/Calculator)  
-**Description**: A basic unit convertor application that performs addition, subtraction, multiplication, and division.  
-**Concepts Covered**: Functions, user input, exception handling.
+**Location**: [`Alien Invasion/`](https://github.com/AnoopGeorge418/Projects)  
+**Description**: A simple alien invasion pygame project using python.
+**Concepts Covered**: Functions, user input, exception , loops, modules and packages, class, libraries...
 
 ### 2. 📝 To-Do List 
 **Location**: [`To-Do List/`](https://github.com/AnoopGeorge418/Projects/tree/main/To-Do_List)  
