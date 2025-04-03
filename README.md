@@ -9,26 +9,34 @@ A collection of Python projects demonstrating various programming concepts, tool
 - **Concepts**: String datatype, Variables, Input function, print and f-string
 - **Learning**: 
         1. How to concatenate strings 
-        2. How to use input function to get user answers and prompt the user, 
+        2. How to use input function to get user answers and prompt the user
         3. How to use f-string to print result in a better easy way.
 - **Video Tutorial**: [Coming Soon In Youtube](#)
 
-### [2. Amazon Price Tracker](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Amazon%20Price%20Tracker)
-- **Description**: Tool to track product prices on Amazon and receive alerts on price drops.
-- **Concepts**: Web scraping, email automation, data persistence
-- **Learning**: BeautifulSoup, requests library, SMTP for sending emails, automated data collection
+### [2. BMI Calculator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Bmi%20Calculator)
+- **Description**: Program that calculates user body mass index from their weight and height
+- **Concepts**: String datatype, Variables, Input function, print, operations and f-string
+- **Learning**: 
+        1. How to concatenate strings 
+        2. How to use input function to get user answers and prompt the user
+        3. How to use f-string to print result in a better easy way.
+        4. How to use math opearations in python
 - **Video Tutorial**: [Coming Soon In Youtube](#)
 
-### [3. Hangman Game](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Hangman%20Game)
+### [3. Tip Calculator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Tip%20Calculator)
 - **Description**: Command-line implementation of the classic Hangman word guessing game.
-- **Concepts**: String manipulation, conditional logic, input validation
-- **Learning**: Random module, ASCII art, game state management
+- **Concepts**: String manipulation, input validation
+- **Learning**: 
+        1. How to concatenate strings 
+        2. How to use input function to get user answers and prompt the user
+        3. How to use f-string to print result in a better easy way.
+        4. How to use math opearations in python
 - **Video Tutorial**: [Coming Soon In Youtube](#)
 
-### [4. PDF Merger](https://github.com/AnoopGeorge418/Python-Projects/tree/main/PDF%20Merger)
-- **Description**: Application to combine multiple PDF files into a single document.
-- **Concepts**: File handling, PDF manipulation, GUI
-- **Learning**: Working with PyPDF2, file dialogs, document processing
+### [4. Treasure Island](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Treasure%20Island)
+- **Description**: A story based adventure game.
+- **Concepts**:String manipulation, Conditional statements.
+- **Learning**: Working with Conditions
 - **Video Tutorial**: [Coming Soon In Youtube](#)
 
 
