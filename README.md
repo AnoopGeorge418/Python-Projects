@@ -39,10 +39,16 @@ A collection of Python projects demonstrating various programming concepts, tool
 - **Learning**: Working with Conditions
 - **Video Tutorial**: [Coming Soon In Youtube](#)
 
-### [4. Rock Paper Scissors](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rock%20Paper%20Scissors)
+### [5. Rock Paper Scissors](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rock%20Paper%20Scissors)
 - **Description**: A Simple Rock Paper Scissors Game.
 - **Concepts**: Conditions, Datatypes, List - DataStructure, Random Module, Logical Operations
 - **Learning**: Working with Conditions and datastructures and building logic
+- **Video Tutorial**: [Coming Soon In Youtube](#)
+
+### [6. Password Generator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rock%20Paper%20Scissors)
+- **Description**: Generating random password which contains letters, numbers, and symbols
+- **Concepts**: For Loops, String module, Random Module
+- **Learning**: Working with loops(for loops), string module and random module
 - **Video Tutorial**: [Coming Soon In Youtube](#)
 
 
