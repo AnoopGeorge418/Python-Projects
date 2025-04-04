@@ -45,7 +45,7 @@ A collection of Python projects demonstrating various programming concepts, tool
 - **Learning**: Working with Conditions and datastructures and building logic
 - **Video Tutorial**: [Coming Soon In Youtube](#)
 
-### [6. Password Generator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rock%20Paper%20Scissors)
+### [6. Password Generator](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Password%20Generator)
 - **Description**: Generating random password which contains letters, numbers, and symbols
 - **Concepts**: For Loops, String module, Random Module
 - **Learning**: Working with loops(for loops), string module and random module
