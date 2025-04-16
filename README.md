@@ -47,4 +47,4 @@ For any questions or suggestions, feel free to reach out:
 
 🎥 Projects Walkthroughs:
 
-1. Band Name Generator - [Youtube Video Link]()
+1. Band Name Generator - [Youtube Video Link](https://www.youtube.com/@AnoopGeorge418)
