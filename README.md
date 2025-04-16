@@ -38,9 +38,9 @@ Contributions are welcome! If you have a project idea or improvements, feel free
 
 For any questions or suggestions, feel free to reach out:
 - 📩 Email: anoopgeorge418@gmail.com
-- 🌐 GitHub: [Your GitHub Profile](https://github.com/AnoopGeorge418)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anoop-george418/)
-- ✖️ X (Twitter): [Your X Profile](https://x.com/Anoopgeorg_)
+- 🌐 GitHub: [GitHub Profile](https://github.com/AnoopGeorge418)
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anoop-george418/)
+- ✖️ X (Twitter): [X Profile](https://x.com/Anoopgeorg_)
 
 
 ## Video Tutorials:
