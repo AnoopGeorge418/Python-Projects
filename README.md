@@ -19,6 +19,7 @@ Here, you'll find a collection of Python projects, each with a brief description
   - Generates Band name from user input
 - **Learnings:**  
     - Variables, input function, print function, string datatype and method.
+- **[Youtube Video Link](https://youtu.be/I9f41dGExZY?si=SYzHzpLq4jyZMDfp)**
 
 ---
 
@@ -42,9 +43,3 @@ For any questions or suggestions, feel free to reach out:
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anoop-george418/)
 - ✖️ X (Twitter): [X Profile](https://x.com/Anoopgeorg_)
 
-
-## Video Tutorials:
-
-🎥 Projects Walkthroughs:
-
-1. Band Name Generator - [Youtube Video Link](https://www.youtube.com/@AnoopGeorge418)
