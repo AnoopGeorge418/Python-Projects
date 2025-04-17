@@ -21,6 +21,15 @@ Here, you'll find a collection of Python projects, each with a brief description
     - Variables, input function, print function, string datatype and method.
 - **[Youtube Video Link](https://youtu.be/I9f41dGExZY?si=SYzHzpLq4jyZMDfp)**
 
+### 2. BMI Calculator 📝
+- **Description:**     - A simple python project that calculates the body mass index based on users height and weights and returns value as a result.
+- **Level:** Beginner
+- **Link:** [Source Code](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Bmi%20Calculator)  
+- **Features:**  
+  - Calculates BMI from user input
+- **Learnings:**  
+    - Variables, input function, print function, Type casting.
+
 ---
 
 ## 🌟 How to Use This Repository
