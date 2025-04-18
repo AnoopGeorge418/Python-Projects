@@ -22,11 +22,20 @@ Here, you'll find a collection of Python projects, each with a brief description
 - **[Youtube Video Link](https://youtu.be/I9f41dGExZY?si=SYzHzpLq4jyZMDfp)**
 
 ### 2. BMI Calculator 📝
-- **Description:**     - A simple python project that calculates the body mass index based on users height and weights and returns value as a result.
+- **Description:** A simple python project that calculates the body mass index based on users height and weights and returns value as a result.
 - **Level:** Beginner
 - **Link:** [Source Code](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Bmi%20Calculator)  
 - **Features:**  
   - Calculates BMI from user input
+- **Learnings:**  
+    - Variables, input function, print function, Type casting.
+
+### 3. Tip Calculator 📝
+- **Description:** A simple python project that calculates the tip based on number of persons and tip they are paying and returns value as a result.
+- **Level:** Beginner
+- **Link:** [Source Code](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Tip%20Calculator)  
+- **Features:**  
+  - Calculates Tip from the percentage, total bill, number of people
 - **Learnings:**  
     - Variables, input function, print function, Type casting.
 
