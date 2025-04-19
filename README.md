@@ -48,7 +48,7 @@ Here, you'll find a collection of Python projects, each with a brief description
 - **Learnings:**  
     - Variables, input function, print function, Conditionals.
 
-### 4. Rock Paper Scissors 📝
+### 5. Rock Paper Scissors 📝
 - **Description:**  A simple Rock Paper Scissors Game With Official Rules
 - **Level:** Beginner
 - **Link:** [Source Code](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rock%Paper%20Scissors)  
@@ -56,6 +56,15 @@ Here, you'll find a collection of Python projects, each with a brief description
   - Rock Paper Scissors
 - **Learnings:**  
     - Variables, input function, print function, Conditionals, Random Method.
+
+### 6. Password Generator 📝
+- **Description:** Generating random password with combination of letters, numbers, and symbols to keep safe the account.
+- **Level:** Beginner
+- **Link:** [Source Code](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rock%Paper%20Scissors)  
+- **Features:**  
+  - Generating random password to keep account safe from hackers.
+- **Learnings:**  
+    - Variables, input function, print function, Conditionals, Random method, String module, list datastructure.
 
 ---
 
