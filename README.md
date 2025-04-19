@@ -60,7 +60,7 @@ Here, you'll find a collection of Python projects, each with a brief description
 ### 6. Password Generator 📝
 - **Description:** Generating random password with combination of letters, numbers, and symbols to keep safe the account.
 - **Level:** Beginner
-- **Link:** [Source Code](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rock%Paper%20Scissors)  
+- **Link:** [Source Code](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Password%20Generators)  
 - **Features:**  
   - Generating random password to keep account safe from hackers.
 - **Learnings:**  
