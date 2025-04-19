@@ -47,6 +47,16 @@ Here, you'll find a collection of Python projects, each with a brief description
   - Searching for treasures using some hint
 - **Learnings:**  
     - Variables, input function, print function, Conditionals.
+
+### 4. Rock Paper Scissors 📝
+- **Description:**  A simple Rock Paper Scissors Game With Official Rules
+- **Level:** Beginner
+- **Link:** [Source Code](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Rock%Paper%20Scissors)  
+- **Features:**  
+  - Rock Paper Scissors
+- **Learnings:**  
+    - Variables, input function, print function, Conditionals, Random Method.
+
 ---
 
 ## 🌟 How to Use This Repository
