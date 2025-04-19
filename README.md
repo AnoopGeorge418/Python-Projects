@@ -39,6 +39,14 @@ Here, you'll find a collection of Python projects, each with a brief description
 - **Learnings:**  
     - Variables, input function, print function, Type casting.
 
+### 4. Treasure Island 📝
+- **Description:**  A simple Treasure island game.
+- **Level:** Beginner
+- **Link:** [Source Code](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Treasure%Island)  
+- **Features:**  
+  - Searching for treasures using some hint
+- **Learnings:**  
+    - Variables, input function, print function, Conditionals.
 ---
 
 ## 🌟 How to Use This Repository
