@@ -64,7 +64,16 @@ Here, you'll find a collection of Python projects, each with a brief description
 - **Features:**  
   - Generating random password to keep account safe from hackers.
 - **Learnings:**  
-    - Variables, input function, print function, Conditionals, Random method, String module, list datastructure.
+    - Variables, input function, print function, Conditionals, Random method, String module, list data structure.
+
+### 7. Hangman 📝
+- **Description:** Hangman - Guessing each letters in a word.
+- **Level:** Beginner
+- **Link:** [Source Code](https://github.com/AnoopGeorge418/Python-Projects/tree/main/Hangman)  
+- **Features:**  
+  - Generating random words and replacing with _ and guessing the letters.
+- **Learnings:**  
+    - Variables, input function, print function, Conditionals, Random method, String module, list data structure.
 
 ---
 
